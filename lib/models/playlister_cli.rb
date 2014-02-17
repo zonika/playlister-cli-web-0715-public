@@ -31,6 +31,8 @@ class PlaylisterCLI
   end
 
   def command(input)
+    # What does the ruby send method do and why would we use it?
+    # http://ruby-doc.org/core-2.1.0/Object.html#method-i-send
     send(input) if command_valid?(input)
   end
 
