@@ -12,7 +12,6 @@ describe Artist do
   end
 
   it "can have a name" do
-    artist = Artist.new
     artist.name = "Adele"
     expect(artist.name).to eq("Adele")
   end
