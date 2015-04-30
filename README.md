@@ -111,5 +111,3 @@ This class should be the primary interface for the command line application. Upo
 
 Have fun with this, add functionality to perhaps browse by Genre or Artist.
 
-## Resources
-* [Build Awesome Command-Line Applications in Ruby](http://books.flatironschool.com/books/103) - [Chapter 1: Have a Clear and Concise Purpose](http://books.flatironschool.com/books/103), page 18
