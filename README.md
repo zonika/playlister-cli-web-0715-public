@@ -10,7 +10,7 @@ In [playlister-rb](http://learn.flatironschool.com/lessons/940), you built a sim
 
 ## Setting Up the Project
 
-First, Fork and Clone this project. Code your answer in an appropriate branch, `solution`, and then submit a Pull Request.
+First, Fork and Clone this project. Code your answer and then submit a Pull Request.
 
 You can run the test suite via `rspec`.
 
