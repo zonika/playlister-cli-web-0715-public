@@ -1,8 +1,4 @@
----
-  tags: cli, oo, playlister, parser, full-application
-  language: ruby
-  resources: 1
----
+
 
 # Playlister CLI
 
