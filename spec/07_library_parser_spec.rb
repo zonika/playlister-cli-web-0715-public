@@ -1,3 +1,4 @@
+require 'pry'
 describe "LibraryParser" do
   before do
     Artist.reset_all
